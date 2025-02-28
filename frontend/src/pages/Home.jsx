@@ -36,7 +36,7 @@ const Home = () => {
     <div class="card">
       <img src="/b6.jpg" class="card-img-top" alt="..." />
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">vadai</h5>
         <p class="card-text">A perfect Dahi vada recipe starts with tender and puffy homemade fried lentil fritters that are soaked in water, drained, and then covered in tangy whipped yogurt. These fluffy fritters are traditionally made with the ivory-colored skinned urad dal, also known as black gram or urad bean.</p>
       </div>
     </div>
